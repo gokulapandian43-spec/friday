@@ -1,0 +1,2 @@
+# friday
+my personal AI
